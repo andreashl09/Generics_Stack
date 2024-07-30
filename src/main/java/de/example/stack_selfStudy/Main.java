@@ -6,8 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Stack<String> stack = new Stack<>();
 
-        System.out.println("Ist der Stack leer: " + stack.isEmpty());
-
         stack.push("Deadpool");
         stack.push("Wolverine");
         stack.push("Super Sonic");
