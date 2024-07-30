@@ -1,4 +1,4 @@
-package de.example.swapContent;
+package de.example.swap_content;
 
 import java.util.ArrayList;
 

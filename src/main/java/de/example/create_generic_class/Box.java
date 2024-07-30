@@ -1,4 +1,4 @@
-package de.example.Create_generic_class;
+package de.example.create_generic_class;
 
 public class Box<E> {
     private E item;

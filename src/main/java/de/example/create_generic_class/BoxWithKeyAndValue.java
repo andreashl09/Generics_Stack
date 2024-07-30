@@ -1,6 +1,4 @@
-package de.example.Create_generic_class;
-
-import java.util.Objects;
+package de.example.create_generic_class;
 
 public class BoxWithKeyAndValue<K, V> {
 
